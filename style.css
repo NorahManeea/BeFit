@@ -27,7 +27,30 @@ font-size: 5rem;
 line-height: 110%;
 color: var(--ghost-white);
 }
+/* button */
+.btn{
+    background-color: var(--honeysuckle);
+    width: 140px;
+    border: none;
+    color: var(--black);
+  
+  }
+  .btn:hover{
+    background-color: var(--biloba-flower);
 
+  }
+  .btn:active{
+    background-color: var(--biloba-flower);
+  }
+
+  /*Bootstrap button outline override*/
+.btn-outline {
+    background-color: transparent;
+    color: inherit;
+    transition: all .5s;
+    border: 1px solid var(--ghost-white);
+    color: var(--ghost-white);
+}
 
 /* About */
 .about{
