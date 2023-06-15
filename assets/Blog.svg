@@ -1,0 +1,40 @@
+<svg width="1920" height="1025" viewBox="0 0 1920 1025" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="1025" fill="#0F0F0F"/>
+<g clip-path="url(#clip0_64_143)">
+<mask id="mask0_64_143" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1558" y="0" width="362" height="177">
+<mask id="mask1_64_143" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1558" y="0" width="362" height="177">
+<rect x="1558" width="362" height="177" fill="#AE89CF"/>
+</mask>
+<g mask="url(#mask1_64_143)">
+<line y1="-16" x2="332.092" y2="-16" transform="matrix(0.756615 -0.653861 0.756615 0.653861 1587.43 198.142)" stroke="#C2D500" stroke-width="32"/>
+<line y1="-15" x2="332.092" y2="-15" transform="matrix(0.756615 -0.653861 0.756615 0.653861 1431.19 198.142)" stroke="#C2D500" stroke-width="30"/>
+<line y1="-12.5" x2="332.092" y2="-12.5" transform="matrix(0.756615 -0.653861 0.756615 0.653861 1351 198.142)" stroke="#C2D500" stroke-width="25"/>
+<line y1="-14" x2="332.092" y2="-14" transform="matrix(0.756615 -0.653861 0.756615 0.653861 1748.41 198.142)" stroke="#C2D500" stroke-width="28"/>
+<line y1="-10" x2="332.092" y2="-10" transform="matrix(0.756615 -0.653861 0.756615 0.653861 1909.38 198.142)" stroke="#C2D500" stroke-width="20"/>
+<line y1="-15" x2="332.092" y2="-15" transform="matrix(0.756615 -0.653861 0.756615 0.653861 1667.04 198.142)" stroke="#C2D500" stroke-width="30"/>
+<line y1="-17.5" x2="332.092" y2="-17.5" transform="matrix(0.756615 -0.653861 0.756615 0.653861 1512.42 198.142)" stroke="#C2D500" stroke-width="35"/>
+<line y1="-12.5" x2="332.092" y2="-12.5" transform="matrix(0.756615 -0.653861 0.756615 0.653861 1828.02 198.142)" stroke="#C2D500" stroke-width="25"/>
+</g>
+</mask>
+<g mask="url(#mask0_64_143)">
+<rect x="1853.42" width="67" height="177" fill="#AE89CF"/>
+</g>
+<mask id="mask2_64_143" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-94" y="727" width="400" height="197">
+<rect x="-94" y="727" width="400" height="196.024" fill="#BADA31"/>
+</mask>
+<g mask="url(#mask2_64_143)">
+<line y1="-16" x2="332.092" y2="-16" transform="matrix(0.756615 -0.653861 0.756615 0.653861 -57.4146 944.143)" stroke="#EAFC5A" stroke-width="32"/>
+<line y1="-15" x2="332.092" y2="-15" transform="matrix(0.756615 -0.653861 0.756615 0.653861 -213.661 944.142)" stroke="#EAFC5A" stroke-width="30"/>
+<line y1="-14" x2="332.092" y2="-14" transform="matrix(0.756615 -0.653861 0.756615 0.653861 103.561 944.143)" stroke="#EAFC5A" stroke-width="28"/>
+<line y1="-10" x2="332.092" y2="-10" transform="matrix(0.756615 -0.653861 0.756615 0.653861 264.537 944.143)" stroke="#EAFC5A" stroke-width="20"/>
+<line y1="-15" x2="332.092" y2="-15" transform="matrix(0.756615 -0.653861 0.756615 0.653861 22.1929 944.143)" stroke="#EAFC5A" stroke-width="30"/>
+<line y1="-17.5" x2="332.092" y2="-17.5" transform="matrix(0.756615 -0.653861 0.756615 0.653861 -132.431 944.142)" stroke="#EAFC5A" stroke-width="35"/>
+<line y1="-12.5" x2="332.092" y2="-12.5" transform="matrix(0.756615 -0.653861 0.756615 0.653861 183.169 944.143)" stroke="#EAFC5A" stroke-width="25"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_64_143">
+<rect width="1920" height="1025" fill="white"/>
+</clipPath>
+</defs>
+</svg>

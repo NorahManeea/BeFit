@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+:root{
+     --honeysuckle: #EAFC5A;
+     --biloba-flower : #AE89CF;
+     --black: #0F0F0F;
+     --arsenic: #414447;
+     --ghost-white: #F9F9FB;
+     font-family: 'Open Sans', sans-serif;
+}
+
+/* NavBar */
+
+
+/* Hero */
+#hero{
+    background-image: url('assets/HeroBg.svg');
+    background-repeat: no-repeat;
+    background-size: center;
+}
+
+#hero h1{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 5rem;
+line-height: 110%;
+color: var(--ghost-white);
+}
+
+
+/* About */
+.about{
+    background-color: var(--ghost-white);
+    
+}
+
+/* BMI Calc */
+
+/* Blogs */
+.blog{
+    background-image: url('assets/Blog.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+/* Contact */
+.contact{
+    background-color: var(--ghost-white);
+}
+
+/* Footer */
+
+footer {
+    background-color: var(--black);
+    color: var(--ghost-white);
+    
+  }
+
+  #copyright{
+    background-color: var(--honeysuckle);
+    color: var(--black);
+  }
